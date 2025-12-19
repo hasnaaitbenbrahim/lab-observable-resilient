@@ -24,3 +24,12 @@
 ## Emprunter un livre ##
 
 <img width="3018" height="1164" alt="image" src="https://github.com/user-attachments/assets/de81d68d-1eab-4619-9fc3-ab2e63e5af84" />
+
+
+### Créer un livre via instance 1 : ###
+
+<img width="1926" height="542" alt="image" src="https://github.com/user-attachments/assets/3c33c8bc-6ed7-4f82-b9e9-32e7ba986cc7" />
+
+### Lire  instances : ###
+
+<img width="1378" height="1078" alt="image" src="https://github.com/user-attachments/assets/e53cb1f4-7025-4958-a913-56048ffa16a9" />
